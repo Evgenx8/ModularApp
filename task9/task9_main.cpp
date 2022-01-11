@@ -12,4 +12,4 @@ int main(int argc, char **argv) {
 	cin >> task9::x;
 	task9::f();
 	cout << "y = " << task9::result << endl;
-}
+};
